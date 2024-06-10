@@ -27,7 +27,7 @@ const Home = (props) => {
         <div className="between">
         <ul className="nav-ul">
           <li className="nav-logo"><img src="https://static.vecteezy.com/system/resources/thumbnails/032/752/217/small_2x/super-car-logo-icon-ai-generative-free-png.png"></img> </li>
-          <li className="nav-item"><Link to="/Home">Home</Link></li>
+          <li className="nav-item"><Link to="/">Home</Link></li>
           {/* <li className="nav-item"><Link to="/View">View</Link></li> */}
           <li className="nav-item"><Link to="/Offers">Offers</Link></li>
           <li className="nav-item"><Link to="/About">About</Link></li>
